@@ -1,0 +1,21 @@
+- git init 
+- git status 
+- git add 
+- git commit -m
+- git log (--oneline)
+- to ignore a file from commiting or tracking: 
+	- create a folder names `.gitignore`
+	- write the name of the files you want to ignore
+- git does NOT recognize empty directory (folder). mtlb it wont track empty directory
+	- to track add a file `.gitkeep` file for git to track it
+- **Branching** 
+	- git branch  (lists all the branches)
+	- git branch <`branchname`> (creates a new branch)
+	- git switch <`branchname`> (switches the branch)
+	- git branch -d <`branchname`> (deleted a branch)
+	- git merge <`branchname`> (merges a branch with the main branch)
+- stash (temporarily saves the changes) (git stash)
+- git tag (used to tag)
+	1. **Annotated tags** --> descriptive tags --> for eg. `git tag -a v1.0.0 -m "Release version 1.0.0`
+	2. Lightweight tags --> just a pointer --> for eg. `git tag v1.1`
+- 
