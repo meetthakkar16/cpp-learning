@@ -18,4 +18,5 @@
 - git tag (used to tag)
 	1. **Annotated tags** --> descriptive tags --> for eg. `git tag -a v1.0.0 -m "Release version 1.0.0`
 	2. Lightweight tags --> just a pointer --> for eg. `git tag v1.1`
-- 
+- git push --> used to push the changes that are done on the local machine to github
+- git pull --> used to update changes done by someone else or changes done on github itself and replicate them to our local machine
