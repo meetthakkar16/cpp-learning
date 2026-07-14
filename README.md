@@ -10,7 +10,8 @@ Each folder is one day of practice. Files inside are individual programs written
 | Day | What I learned |
 |-----|-----------------|
 | 1   | Setup (VS Code + g++/MSYS2), Hello World, data types, variables, cin/cout |
-| 2   | *(add as you go)* |
+| 2   | Git + GitHub — watched CodeWithHarry's 2hr crash course, practiced init/add/commit/push/branch hands-on |
+| 3   | edit as you go |
 
 ## Setup
 - Compiler: g++ via MSYS2
